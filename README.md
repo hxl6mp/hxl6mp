@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on [Ethereal](https://etherealol.netlify.app)<br><br>🌱 I’m currently learning backend developing/typescript<br><br>👯 I’m looking to enhance my skills with Typescript<br><br>💬 Ask me about javascript/html/python/c++<br><br>📫 How to reach me hxl6mp@gmail.com</p>
+<p align="left">🔭 I’m currently working on [Ethereal]  <br><br>🌱 I’m currently learning backend developing/typescript<br><br>👯 I’m looking to enhance my skills with Typescript<br><br>💬 Ask me about javascript/html/python/c++<br><br>📫 How to reach me hxl6mp@gmail.com</p>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hxl6mp/hxl6mp/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
