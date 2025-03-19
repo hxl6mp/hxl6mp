@@ -16,7 +16,14 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on [Ethereal]  <br><br>🌱 I’m currently advancing my skills in fullstack developing/typescript<br><br>👯 I’m looking to enhance my skills with Typescript<br><br>💬 Ask me about javascript/html/python/c++<br><br>📫 How to reach me hxl6mp@gmail.com</p>
+<p align="left">
+  🔭 I’m currently working on [Ethereal]  <br><br>
+  🌱 I’m currently advancing my skills in fullstack developing/typescript<br><br>
+  👯 I’m looking to enhance my skills with Typescript<br><br>
+  💬 Ask me about javascript/html/python/c++<br><br>
+  📫 How to reach me hxl6mp@gmail.com<br><br>
+  <strong style="font-size: 24px;">Most of my projects are private so only a few of them are listed</strong>
+</p>
 
 ###
 
