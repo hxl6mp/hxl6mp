@@ -17,11 +17,12 @@
 ###
 
 <p align="left">
-  🔭 I’m currently working on [Ethereal]  <br><br>
-  🌱 I’m currently advancing my skills in fullstack developing/typescript<br><br>
-  👯 I’m looking to enhance my skills with Typescript<br><br>
-  💬 Ask me about javascript/html/python/c++<br><br>
-  <strong style="font-size: 24px;">Most of my projects are private so only a few of them are listed</strong>
+  🔭 Currently working on <strong>Imura</strong><br><br>
+  🌱 Currently Working in fullstack developing and TypeScript<br><br>
+  👯 Always down to build help on projects<br><br>
+  💬 Hmu for JavaScript, HTML, Python and C++ work<br><br>
+  🧠 I'm a greyhat and malware dev — most of my work stays private<br><br>
+  <strong style="font-size: 18px;">Only a few of my projects are public</strong>
 </p>
 
 ###
