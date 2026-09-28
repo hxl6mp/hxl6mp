@@ -16,14 +16,7 @@
 
 ###
 
-<p align="left">
-   Currently working on <strong>Imura</strong><br><br>
-   Currently Working in fullstack developing and TypeScript<br><br>
-    down to build help on projects<br><br>
-   Hmu for JavaScript, Typescript, Python and C++ work<br><br>
-    greyhat/malware dev most of my work stays private<br><br>
-  <strong style="font-size: 18px;">Only a few of my projects are public</strong>
-</p>
+
 
 ###
 
